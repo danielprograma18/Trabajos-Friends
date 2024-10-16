@@ -82,6 +82,7 @@ public class AppBiblioteca {
     }
 
 */Xd/*
+*/hola/*
 
     public void imprimir() {
         System.out.println(libro);
