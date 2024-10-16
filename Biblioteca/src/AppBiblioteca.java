@@ -81,6 +81,8 @@ public class AppBiblioteca {
         sc.close();
     }
 
+*/Xd/*
+
     public void imprimir() {
         System.out.println(libro);
     }
