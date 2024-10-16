@@ -1,4 +1,5 @@
 public class Persona {
+    
 private String nombre: // propiedad
 private int edad; // propiedad
 

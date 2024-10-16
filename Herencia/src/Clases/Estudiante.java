@@ -14,10 +14,9 @@ public void setCarrera (String val) { // mutador de carrera
     this.carrera val;
 }
 
-public int getLegajo () { // asesor a legajo 
-    return legajo;
+public void setCodigo(int codigo) {
+    this.codigo = codigo;
 }
-public void setLegajo (int val) { // mutador de legajo 
-    this.legajo = val:
-}
+
+
 }
